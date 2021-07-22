@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aditya00khandelwal.
 - 👀 I’m interested in DevOps.
-- 🌱 I’m currently learning Jenkins 2.0.
-- 💞️ I’m looking to for an internship in DevOps.
+- 🌱 I’m currently learning MLOPS.
+- 💞️ I’m looking for an internship in DevOps.
 - 📫 You can reach me on my linkedin (https://www.linkedin.com/in/aditya-khandelwal-00052419b/)
 
 <!---
